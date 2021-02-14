@@ -30,7 +30,7 @@ La ventana de inicio o Home está pensada para que lo primero que veas sea la in
 En reservas encontrarás los datos del evento que selecciones en el desplegable de la derecha. Cuando selecciones un evento, se mostrarán todas las reservas realizadas y, en la parte inferior, un pequeño resumen de los datos de ocupación.
 
 <p align="center">
-    <img width="90%" src="\assets\reservas.gif"> 
+    <img width="90%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/reservas.gif"> 
 </p>
 
 
@@ -40,7 +40,7 @@ En reservas encontrarás los datos del evento que selecciones en el desplegable 
 Crear una reserva es tan intuitivo como pulsar en el símbolo más ( + ) de la parte superior izquierda, lo que hará aparecer un formulario con todos los campos necesarios para realizar una reserva.
 
 <p align="center">
-    <img width="70%" src="\assets\nueva-reserva.png"> 
+    <img width="70%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/nueva-reserva.png"> 
 </p>
 
 El formulario es una de las características de mayor utilidad de la aplicación, puesto que no solo avisa de la obligatoriedad de los campos, sino que además, no te permitirá realizar una reserva si esta supera el aforo del evento.
@@ -50,7 +50,7 @@ El formulario es una de las características de mayor utilidad de la aplicación
 Puedes editar o eliminar una reserva desde la tabla, haciendo clic derecho sobre la reserva en cuestión podrás ver un pequeño menú donde aparecerán las opciones de Editar y Eliminar. Si pulsas en editar, volverás a ver un formulario con los datos de la reserva, los cuales serán editados cuando pulses en Actualizar. 
 
 <p align="center">
-    <img width="70%" src="\assets\editar-reserva.png"> 
+    <img width="70%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/editar-reserva.png"> 
 </p>
 
 No te preocupes si te equivocas y pulsas en Eliminar, te preguntará si estás seguro de la acción que vas a realizar.
@@ -68,7 +68,7 @@ En reservas encontrarás los datos del evento que selecciones en el desplegable 
 Crear un evento es tan intuitivo como pulsar en el símbolo más ( + ) de la parte superior izquierda, lo que hará aparecer un formulario con todos los campos necesarios para crearlo.
 
 <p align="center">
-    <img width="50%" src="\assets\nuevo-evento.png"> 
+    <img width="50%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/nuevo-evento.png"> 
 </p>
 
 ### Editar y eliminar eventos
@@ -84,7 +84,7 @@ La generación de informes es uno de los aspectos clave de **Eventhor**. Es el c
 Pulsando el símbolo PDF de la izquierda, podrás generar un informe completo o general que muestra los datos de las reservas de todos los eventos. 
 
 <p align="center">
-    <img width="90%" src="\assets\informe-general.png"> 
+    <img width="90%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/informe-general.png"> 
 </p>
 
 ### Informe específico
@@ -92,5 +92,5 @@ Pulsando el símbolo PDF de la izquierda, podrás generar un informe completo o 
 Al hacer clic derecho en alguno de los eventos, existe la opción de Generar informe, esta opción nos generará un informe del evento seleccionado donde podrás ver todas las reservas de ese evento y el total de asistentes
 
 <p align="center">
-    <img width="90%" src="\assets\informe-especifico.png"> 
+    <img width="90%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/informe-especifico.png"> 
 </p>
