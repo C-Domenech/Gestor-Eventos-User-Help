@@ -4,7 +4,7 @@
 
 En esta guía encontrarás una introducción a cada una de las secciones que componen **Eventhor**. Además, te ayudará a conocer todas sus posibilidades y te hará más fácil la primera toma de contacto con la aplicación.
 
-![Imagen barra de navegación - Menú lateral](https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/navegacion.gif){: width=60% align=right style=" padding-left:10px"}
+![Barra de navegación lateral](https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/navegacion.gif)
 
 
 
