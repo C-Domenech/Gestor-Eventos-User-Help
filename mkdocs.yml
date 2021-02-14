@@ -23,5 +23,4 @@ extra:
 copyright: Copyright &copy; 2021 Cristina Domenech
 markdown_extensions:
   - attr_list
-  - pymdownx.snippets
 
