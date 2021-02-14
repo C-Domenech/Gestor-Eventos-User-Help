@@ -19,7 +19,7 @@ En esta guía encontrarás una introducción a cada una de las secciones que com
 La ventana de inicio o Home está pensada para que lo primero que veas sea la información que más te interesa. En ella aparecerán los datos del evento más cercano y su información de ocupación.
 
 <p align="center">
-    <img width="90%" src="\assets\home.png"> 
+    <img width="90%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/home.png"> 
 </p>
 
 
