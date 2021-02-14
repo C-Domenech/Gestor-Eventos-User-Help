@@ -78,6 +78,9 @@ Es posible editar o eliminar una reserva desde la tabla, haz clic derecho sobre 
 ## Generación de informes
 
 La generación de informes es uno de los aspectos clave de **Eventhor**. Es el complemento perfecto para así poder obtener los datos, trabajar con ellos, enviarlos si fuera necesario. Nuestro gestor de eventos no quiere limitar tus posibilidades. Para esto, se han creado dos tipos de informes: 
+<p align="center">
+    <img width="90%" src="https://raw.githubusercontent.com/C-Domenech/Gestor-Eventos-User-Help/main/docs/assets/eventos.png"> 
+</p>
 
 ### Informe completo
 
