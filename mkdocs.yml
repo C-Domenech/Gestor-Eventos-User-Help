@@ -1,7 +1,7 @@
 site_name: Eventhor
 nav:
  - Bienvenido: index.md
- - Guía de usuario: user_guide.md
+ - Guía de usuario: guide.md
  - Sobre nosotros: about.md
 theme:
   name: material
@@ -23,4 +23,5 @@ extra:
 copyright: Copyright &copy; 2021 Cristina Domenech
 markdown_extensions:
   - attr_list
+  - pymdownx.snippets
 

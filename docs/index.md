@@ -17,8 +17,8 @@
 
 Seguro que alguno de estos enlaces te llevará a lo que estás buscando
 
-|                CREAR                 |                 EDITAR / ELIMINAR                 |                       GENERAR                        |
-| :----------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: |
-|  [Evento](user_guide/#nuevo-evento)  |  [Evento](user_guide/#editar-y-eliminar-eventos)  |   [Informe completo](user_guide/#informe-completo)   |
-| [Reserva](user_guide/#nueva-reserva) | [Reserva](user_guide/#editar-y-eliminar-reservas) | [Informe específico](user_guide/#informe-especifico) |
+|              CREAR              |              EDITAR / ELIMINAR               |                     GENERAR                     |
+| :-----------------------------: | :------------------------------------------: | :---------------------------------------------: |
+|  [Evento](guide/#nuevo-evento)  |  [Evento](guide/#editar-y-eliminar-eventos)  |   [Informe completo](guide/#informe-completo)   |
+| [Reserva](guide/#nueva-reserva) | [Reserva](guide/#editar-y-eliminar-reservas) | [Informe específico](guide/#informe-especifico) |
 
