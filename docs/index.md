@@ -19,6 +19,6 @@ Seguro que alguno de estos enlaces te llevará a lo que estás buscando
 
 |              CREAR              |              EDITAR / ELIMINAR               |                     GENERAR                     |
 | :-----------------------------: | :------------------------------------------: | :---------------------------------------------: |
-|  [Evento](guide/#nuevo-evento)  |  [Evento](guide/#editar-y-eliminar-eventos)  |   [Informe completo](guide/#informe-completo)   |
-| [Reserva](guide/#nueva-reserva) | [Reserva](guide/#editar-y-eliminar-reservas) | [Informe específico](guide/#informe-especifico) |
+|  [Evento](guide/#crear-un-evento)  |  [Evento](guide/#editar-y-eliminar-eventos)  |   [Informe completo](guide/#informe-completo)   |
+| [Reserva](guide/#crear-una-reserva) | [Reserva](guide/#editar-y-eliminar-reservas) | [Informe específico](guide/#informe-especifico) |
 
